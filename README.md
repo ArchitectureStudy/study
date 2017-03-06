@@ -145,6 +145,9 @@
 * Creating view-model for each UITableViewCell
 > http://stackoverflow.com/questions/38033596/creating-view-model-for-each-uitableviewcell/38957731#38957731
 
+* MVVM 아키텍처 패턴 (프로그래머 이규원의 블로그)
+> https://justhackem.wordpress.com/2017/03/05/mvvm-architectural-pattern/
+
 ## VIPER
 
 * Architecting iOS Apps with VIPER
