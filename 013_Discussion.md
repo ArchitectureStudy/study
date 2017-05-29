@@ -1,6 +1,6 @@
 #Discussion
 
-## 참여자
+## 회의 참여자
 * 초프
 * 레너드
 * 선일
@@ -27,10 +27,12 @@
 각 모듈의 UI는 커스텀 가능해야 함.
 각 모듈은 cocoapods/carthage (ios), gradle module (android) 로 개발
 
-모듈
+**모듈**
 * 게시판
 * 회원관리 & 소셜로그인
-* 서버 wrapping (firebase etc)
+  * 지원자 - 레너드
+* 서버 wrapping (firebase)
+  * 지원자 - 창귀
 
 
 * 채팅
@@ -41,3 +43,25 @@ Github private repo 에 개발
 * 유료가 아닌 분은 유료인 분이 만들어서 초대
 
 각 모듈 담당자는 다다음 주에 정하기로....
+
+## 참여 인원
+**Android**
+* 선일
+
+**iOS**
+* 초프
+* 레너드
+* 차우기
+* 션
+* 태완
+
+## 모듈 담당 지원 
+**iOS**
+
+레너드 - 회원관리
+창귀 - 서버 래핑
+
+**Android**
+ 
+선일 - All
+
